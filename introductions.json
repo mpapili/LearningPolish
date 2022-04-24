@@ -1,0 +1,26 @@
+{
+	"phrases": [
+
+		{"english": "Nice to Meet You",
+		"polish": "milo mi",
+		"pronounced": "Miwo Mi"},
+		{"english": "you",
+		 "polish": "ty",
+		 "pronounced": "tih"},
+		{"english": "Nice to Meet You (informal)",
+		 "polish": "milo mi cie poznac",
+		 "pronounced": "miwo mi chih poznatch!"},
+		{"english": "What is your name?",
+		 "polish": "jak masz na imie?",
+		 "pronounced": "yak mash na imyeh?"},
+		{"english": "my name is mike",
+		 "polish": "mam na imie mike",
+		 "pronounced": "mam na imyeh mike"},
+		{"english": "what is your first name?",
+		 "polish": "jak sie nazywasz?",
+		 "pronounced": "yak shih nazivash?"},
+		{"english": "my first name is mike",
+		 "polish": "nazywam sie mike",
+		 "pronounced": "nazivam shih mike"}
+	]
+}
